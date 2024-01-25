@@ -1,0 +1,133 @@
+<div class="nav ">
+    <div class=" pss">
+        <div class="row nav-1 ">
+            <ul class="d-flex p-0">
+                <div class='nav-mb-login'>
+                    <div
+                        class='fs-1 px-3 d-flex justify-content-between py-3 ps-5 ms-3 fw-bold bg-danger text-white'>
+                        <div>VVD Shoe</div>
+                        <div class="close">X</div>
+                    </div>
+                </div>
+                <li class="ms-5 nav-item-sp h-100  pointer"><a
+                        class="text-white d-block h-100  fs-4 fw-bold text-uppercase" href="{{ route('home') }}">trang chủ</a>
+                </li>
+                <li class="ms-5 h-100 nav-item-sp">
+                    <div class="dropdown-link">
+                        <a class="text-white fs-4 fw-bold text-uppercase" href="">sản phẩm</a>
+                        <i class="ms-2 i-drop px-md-0 px-5 fa-solid fa-caret-down text-white fs-5 "></i>
+                    </div>
+                    <div class="nav-item-hover1">
+                        <div class="row drop_dow-item mb-4">
+                            <div class="col-md ms-5 fs-4 fw-bold">
+                                <a class="text-dark fw-bold d-block fs-4 text-uppercase block" href="">giày
+                                    nam</a>
+                            </div>
+                            <div class="col-md ms-5 fs-4 fw-bold">
+                                <a class="text-dark fw-bold d-block fs-4 text-uppercase block" href="">giày
+                                    nữ</a>
+                            </div>
+                            <div class="col-md ms-5 fs-4 fw-bold">
+                                <a class="text-dark fw-bold d-block fs-4 text-uppercase block" href="">giày
+                                    snacker</a>
+                            </div>
+                            <div class="col-md ms-5 fs-4 fw-bold">
+                                <a class="text-dark fw-bold d-block fs-4 text-uppercase block" href="">giày
+                                    lười</a>
+                            </div>
+                            <div class="col-md ms-5 fs-4 fw-bold">
+                                <a class="text-dark fw-bold d-block fs-4 text-uppercase block" href="">giày
+                                    trẻ em</a>
+                            </div>
+                        </div>
+                        <div class="row drop_dow-item hiden ">
+                            <div class="col-md m-0">
+                                <ul class="ps-5">
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                </ul>
+
+                            </div>
+                            <div class="col-md m-0">
+                                <ul class="ps-5">
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                </ul>
+
+                            </div>
+                            <div class="col-md m-0">
+                                <ul class="ps-5">
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                </ul>
+                            </div>
+                            <div class="col-md m-0">
+                                <ul class="ps-5">
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                </ul>
+
+                            </div>
+                            <div class="col-md m-0">
+                                <ul class="ps-5">
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                    <li class="dropdown-item fs-5 text-capitalize "><a
+                                            class="fs-5 a-hover d-block" href="">giày provip</a> </li>
+                                </ul>
+
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="ms-5 nav-item-sp h-100  pointer"><a
+                        class="text-white d-block h-100  fs-4 fw-bold text-uppercase" href="">tin tức</a>
+                </li>
+                <li class="ms-5 nav-item-sp h-100  pointer"><a
+                        class="text-white d-block h-100  fs-4 fw-bold text-uppercase" href="">giới
+                        thiệu</a></li>
+                <li class="ms-5 nav-item-sp h-100  pointer"><a
+                        class="text-white d-block h-100  fs-4 fw-bold text-uppercase" href="">liên hệ</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
